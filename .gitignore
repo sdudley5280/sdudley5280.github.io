@@ -19,6 +19,6 @@ coverage/
 .DS_Store
 
 # Ignore lock files (optional)
-package-lock.json
+#package-lock.json
 yarn.lock
 pnpm-
